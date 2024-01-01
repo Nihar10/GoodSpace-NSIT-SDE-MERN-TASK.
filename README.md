@@ -1,10 +1,10 @@
-# Talk Hub - Chat Application
+# GoodSpace-NSIT-SDE-MERN-TASK.
+
+# project started
+
+# VIdeo Hub - Chat Application
 
 Talk Hub is chat application build with the power of MERN Stack.
-
-![login page](./images/YourRoom.png.png)
-
-![home page](./images/Talk_hub.png)
 
 ## Installation Guide
 
